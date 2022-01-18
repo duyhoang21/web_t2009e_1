@@ -15,7 +15,7 @@ namespace web_t2009e_1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page of development branch";
 
             return View();
         }
